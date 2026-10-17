@@ -1,3 +1,5 @@
+package easy.two_sum
+
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val seen = HashMap<Int, Int>()

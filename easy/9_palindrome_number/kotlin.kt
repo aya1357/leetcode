@@ -24,6 +24,8 @@
  * ・MutableListからは要素の追加・削除・変更ができる
  * ・valで宣言したMutableListでも、要素の追加・削除は可能
  */
+package easy.palindrome_number
+
 class Solution {
     fun isPalindrome(x: Int): Boolean {
         val str = x.toString()
