@@ -37,7 +37,9 @@ impl Solution {
     }
 }
 
-class Solution2 {
+pub struct Solution2;
+
+impl Solution2 {
     pub fn isPalindrome(x: i32) -> bool {
         if x < 0 { return false; }
         if x % 10 == 0 && x != 0 { return false; }

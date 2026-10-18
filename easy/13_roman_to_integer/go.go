@@ -1,3 +1,7 @@
+package roman
+
+var _ = romanToInt
+
 func romanToInt(s string) int {
 	// ローマ数字は I、V、X など、すべてASCII文字なので map[byte]int が適切
 	// Goの const は数値・文字列・真偽値などの定数式に使える、Mapには使えない。

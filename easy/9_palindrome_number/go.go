@@ -1,6 +1,13 @@
-// Go言語でint型の整数を10進数の文字列（string型）に変換する関数
+package palindrome
+
 import "strconv"
 
+var (
+	_ = isPalindrome
+	_ = isPalindrome2
+)
+
+// Go言語でint型の整数を10進数の文字列（string型）に変換する関数
 func isPalindrome(x int) bool {
 	str := strconv.Itoa(x)
 
