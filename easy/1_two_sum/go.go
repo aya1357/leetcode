@@ -1,4 +1,6 @@
-package main
+package twosum
+
+var _ = twoSum
 
 func twoSum(nums []int, target int) []int {
 	// :=：新しい変数を宣言して、値を代入する
