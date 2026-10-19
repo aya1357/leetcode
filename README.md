@@ -9,7 +9,7 @@
 - [ ] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## STEP 2：HashMap & Set
-- [ ] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
