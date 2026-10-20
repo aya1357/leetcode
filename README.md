@@ -17,7 +17,7 @@
 - [ ] [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 ## STEP 3：Two Pointers
-- [ ] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] ✅[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
