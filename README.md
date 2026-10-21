@@ -25,7 +25,7 @@
 - [ ] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 ## STEP 4：Stack
-- [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [ ] ✅[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [ ] [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 - [ ] [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
