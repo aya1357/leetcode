@@ -32,7 +32,7 @@
 - [ ] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 ## STEP 5：Binary Search
-- [ ] [704. Binary Search](https://leetcode.com/problems/binary-search/)
+- [ ] ✅[704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
