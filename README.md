@@ -48,7 +48,7 @@
 - [ ] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## STEP 7：Binary Tree
-- [ ] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [ ] [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
