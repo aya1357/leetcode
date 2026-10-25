@@ -57,7 +57,7 @@
 - [ ] [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## STEP 8：Sliding Window
-- [ ] [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [x] [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [ ] [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 - [ ] [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
