@@ -72,7 +72,7 @@
 - [ ] [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 ## STEP 10：総合演習
-- [ ] [136. Single Number](https://leetcode.com/problems/single-number/)
+- [ ] ✅[136. Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] [169. Majority Element](https://leetcode.com/problems/majority-element/)
