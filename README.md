@@ -64,7 +64,7 @@
 - [ ] [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 
 ## STEP 9：Dynamic Programming
-- [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] ✅[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [ ] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
