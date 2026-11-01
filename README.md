@@ -18,7 +18,7 @@
 
 ## STEP 3：Two Pointers
 - [ ] ✅[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+- [ ] ✅[344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -26,7 +26,7 @@
 
 ## STEP 4：Stack
 - [ ] ✅[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [ ] ✅[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [ ] [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 - [ ] [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [ ] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
