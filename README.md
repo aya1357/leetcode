@@ -49,7 +49,7 @@
 
 ## STEP 7：Binary Tree
 - [x] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [100. Same Tree](https://leetcode.com/problems/same-tree/)
+- [ ] ✅[100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [ ] [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [112. Path Sum](https://leetcode.com/problems/path-sum/)
