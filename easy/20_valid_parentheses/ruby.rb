@@ -8,7 +8,7 @@ PAIRS = {
 # @param {String} s
 # @return {Boolean}
 # 時間計算量: O(n) - 各文字を1回走査。Hash参照・push/pop は平均 O(1)
-# 空間計算量: O(n) - 最悪すべて開き括弧のときスタックに最大 n 個
+# 空間計算量: O(n) - すべて開き括弧のときスタックに最大 n 個
 def is_valid(s)
   stack = []
   s.each_char do |char|
@@ -25,7 +25,7 @@ end
 # @param {String} s
 # @return {Boolean}
 # 時間計算量: O(n) - 各文字を1回走査。Hash参照・push/pop は平均 O(1)
-# 空間計算量: O(n) - 最悪すべて開き括弧のときスタックに最大 n 個
+# 空間計算量: O(n) - すべて開き括弧のときスタックに最大 n 個
 def is_valid(s)
   stack = []
   s.each_char do |char|
