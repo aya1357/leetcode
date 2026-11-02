@@ -21,7 +21,7 @@ end
 # @param {Integer[]} nums
 # @return {Boolean}
 # 時間計算量: O(n) - 各要素に対する include? / add が平均 O(1)
-# 空間計算量: O(n) - 最悪ですべての要素を Set に保持する
+# 空間計算量: O(n) - すべての要素を Set に保持する
 def contains_duplicate(nums)
   seen = Set.new
 
