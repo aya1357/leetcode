@@ -53,7 +53,7 @@
 - [ ] ✅[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [ ] ✅[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] ✅[112. Path Sum](https://leetcode.com/problems/path-sum/)
-- [ ] [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [ ] ✅[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## STEP 8：Sliding Window
