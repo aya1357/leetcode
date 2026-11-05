@@ -6,7 +6,7 @@
 - [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] ✅[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [ ] ✅[27. Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## STEP 2：HashMap & Set
 - [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
