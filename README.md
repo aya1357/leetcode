@@ -58,7 +58,7 @@
 
 ## STEP 8：Sliding Window
 - [x] [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
-- [ ] [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [ ] ✅[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [ ] [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 - [ ] [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [ ] [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
