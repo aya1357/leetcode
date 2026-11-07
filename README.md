@@ -65,7 +65,7 @@
 
 ## STEP 9：Dynamic Programming
 - [ ] ✅[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [ ] ✅[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [ ] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
