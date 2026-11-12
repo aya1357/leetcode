@@ -13,7 +13,7 @@
 - [ ] ✅[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] ✅[383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] ✅[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [ ] ✅[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 ## STEP 3：Two Pointers
