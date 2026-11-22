@@ -22,7 +22,7 @@
 - [ ] ✅[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] ✅[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] ✅[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [ ] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [ ] ✅[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 ## STEP 4：Stack
 - [ ] ✅[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
