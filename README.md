@@ -28,7 +28,7 @@
 - [ ] ✅[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] ✅[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [ ] ✅[682. Baseball Game](https://leetcode.com/problems/baseball-game/)
-- [ ] [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+- [ ] ✅[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [ ] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 ## STEP 5：Binary Search
