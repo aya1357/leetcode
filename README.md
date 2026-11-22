@@ -21,7 +21,7 @@
 - [ ] ✅[344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] ✅[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] ✅[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [ ] ✅[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 ## STEP 4：Stack
