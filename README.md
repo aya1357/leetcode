@@ -35,7 +35,7 @@
 - [ ] ✅[704. Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] ✅[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] ✅[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
-- [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [ ] ✅[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [ ] [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 
